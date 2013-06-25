@@ -79,5 +79,5 @@ if __name__ == '__main__':
         print solveIt(inputData)
     else:
 
-        print 'This test requires an input file.  Please select one from the data directory. (i.e. python solverCSP1.py ./data/vrp_5_4_1)'
+        print 'This test requires an input file.  Please select one from the data directory. (i.e. python solver.py ./data/vrp_5_4_1)'
 
